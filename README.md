@@ -52,7 +52,7 @@ Olá! Meu nome é <b>Daniel Sismer</b>. Sou estudante da área de Tecnologia da 
 </div>
 
 <div align="center" style="background:#111; border-radius:8px; padding:16px;">
-  <a href="https://instagram.com/7nielz" target="_blank">
+  <a href="https://instagram.com/daniel.sismer" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@daniel.sismer-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/danielSismer" target="_blank">
