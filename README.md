@@ -72,3 +72,10 @@ Olá! Meu nome é <b>Daniel Sismer</b>. Sou estudante da área de Tecnologia da 
 <p align="center" style="color:#fff; background:#111; border-radius:8px; padding:8px;">
   <b>⭐ Sinta-se à vontade para explorar meus projetos, sugerir melhorias ou propor colaborações.<br>Estou sempre aberto a novos aprendizados e desafios!</b>
 </p>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00b4d8&center=true&vCenter=true&width=400&lines=System.status+%3D+'Optimized';_>+DanielSismer.v4.0.0" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=danielsismer&color=152238&style=flat-square&label=PROFILE_VIEW_LOGS" />
+</div>
